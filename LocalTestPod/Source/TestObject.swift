@@ -12,7 +12,7 @@ public class TestObject: AnyObject {
     public var number: Int
     public var name: String
     
-    init(number: Int, name: String) {
+    public init(number: Int, name: String) {
         self.number = number
         self.name = name
     }
