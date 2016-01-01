@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.description   = <<-DESC
     This cocoapod is just for demonstration purposes.
                     DESC
-  s.license       = { :type => 'MIT' }
+  s.license       = { :type => 'MIT', :file => "LICENSE" }
 
   s.author        = { "Jeremy Lawrence" => "Jeremy.Y.Lawrence@gmail.com" }
 
